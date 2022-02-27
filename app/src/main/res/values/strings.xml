@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="splash_title">Joseph</string>
+    <string name="chats_title">CHATS</string>
+    <string name="people_title">PEOPLE</string>
+    <string name="profile_title">PROFILE</string>
+
+    <!-- Create Login Fragment Values -->
+    <!-- Hints -->
+    <string name="create_login_fragment_login_hint" translatable="false">Enter Your login</string>
+    <string name="create_login_fragment_password_hint" translatable="false">Enter Your password</string>
+    <string name="create_login_fragment_name_hint" translatable="false">Enter Your name</string>
+    <string name="create_login_fragment_lastName_hint" translatable="false">Enter Your last name</string>
+    <!-- Hints -->
+
+    <!-- Strings -->
+    <string name="create_login_fragment_title" translatable="false">Enter your details</string>
+    <string name="create_login_fragment_register_btn" translatable="false">Register</string>
+    <string name="create_login_fragment_already" translatable="false">Already registered?</string>
+    <string name="create_login_fragment_login_txt" translatable="false">Login</string>
+    <!-- Strings -->
+    <!-- Create Login Fragment Values -->
+    <!-- Login Fragment Values -->
+    <!-- Hints -->
+    <string name="login_fragment_email_hint" translatable="false">Enter Your Login</string>
+    <string name="login_fragment_password_hint" translatable="false">Enter Your Password</string>
+    <!-- Hints -->
+
+    <!-- Strings -->
+    <string name="login_fragment_email_title" translatable="false">Your Login</string>
+    <string name="login_fragment_password_title" translatable="false">Your Password</string>
+    <string name="login_fragment_enter_title" translatable="false">Enter</string>
+    <string name="login_fragment_not_registered" translatable="false">Not Registered?</string>
+    <string name="login_fragment_register" translatable="false">Register</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Strings -->
+    <!-- Login Fragment Values -->
+
+</resources>

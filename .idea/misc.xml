@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_wallpaper_24.xml" value="0.1275" />
+        <entry key="app/src/main/res/drawable-v24/ic_placeholder_no_text.xml" value="0.1275" />
+        <entry key="app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1275" />
+        <entry key="app/src/main/res/drawable/message_box_background.xml" value="0.1275" />
+        <entry key="app/src/main/res/drawable/sent_box_background.xml" value="0.1275" />
+        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1453125" />
+        <entry key="app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/bottom_sheet_refactor_email.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/bottom_sheet_refactor_name.xml" value="0.41130604288499023" />
+        <entry key="app/src/main/res/layout/chat_fragment.xml" value="0.1453125" />
+        <entry key="app/src/main/res/layout/create_account_fragment.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_root.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/fragment_splash.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/login_in_fragment.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/people_fragment.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/people_item.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/profile_fragment.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/receive_item.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/sent_item.xml" value="0.2953125" />
+        <entry key="app/src/main/res/menu/login_out_menu.xml" value="0.2953125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
